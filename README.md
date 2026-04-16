@@ -1,4 +1,4 @@
-# Wellbeing Learning Activities by Melvin Glorianahate
+# Well-being Learning Activities by Melvin Gloriana Hate
 
 This project aims to provide various learning activities focused on wellbeing. The goal is to foster a positive environment where individuals can engage in self-improvement and mindfulness practices.
 
