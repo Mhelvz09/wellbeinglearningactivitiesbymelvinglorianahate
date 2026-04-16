@@ -1,0 +1,42 @@
+.perma {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.perma h1 {
+  font-size: 2.5em;
+  color: #333;
+}
+
+.perma p {
+  font-size: 1.2em;
+  color: #666;
+  line-height: 1.5;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+  margin-top: 20px;
+}
